@@ -1,0 +1,1 @@
+cscript //nologo RDP_Session_Scanner.vbs
